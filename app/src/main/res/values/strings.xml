@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Diceware Client</string>
+  <string name="generate">Generate</string>
+</resources>
