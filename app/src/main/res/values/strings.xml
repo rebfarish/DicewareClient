@@ -3,4 +3,9 @@
   <string name="passphrase_length">Words in passphrase</string>
   <string name="generate">Generate</string>
   <string name="default_length">6</string>
+  <string name="client_id">733149361198-hsbspgv2b7md2jb6cj24b7vi1uvmnlfj.apps.googleusercontent.com</string>
+  <string name="login_error">Unable to sign in on Google account.</string>
+  <string name="log_out">Log out</string>
+  <string name="oauth2_header">Bearer %s</string>
+  <string name="base_url">https://enenbe.biz/rest/</string>
 </resources>
